@@ -1,3 +1,4 @@
+/// Message Display on Lcd
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(9,8,5,4,3,2);
 int i=0,j=0;
